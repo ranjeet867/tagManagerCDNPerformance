@@ -3379,3 +3379,7 @@ http://startribune.com,Ensighten,http://nexus.ensighten.com/startribune/Bootstra
 http://bitdefender.com,GTM,https://www.googletagmanager.com/gtm.js?id=GTM-PLJJB3,635ms
 http://startribune.com,Ensighten,http://nexus.ensighten.com/startribune/Bootstrap.js,6501ms
 http://lifescript.com,GTM,http://www.googletagmanager.com/gtm.js?id=GTM-TP4RJ8,284ms
+http://squareup.com,Tealium,https://tags.tiqcdn.com/utag/square/main/prod/utag.js,374ms
+http://squareup.com,Tealium,https://tags.tiqcdn.com/utag/square/main/prod/utag.491.js?utv=ut4.011.201703080612,66ms
+http://squareup.com,Tealium,https://tags.tiqcdn.com/utag/square/main/prod/utag.411.js?utv=ut4.011.201703080612,124ms
+http://squareup.com,Tealium,https://tags.tiqcdn.com/utag/square/main/prod/utag.500.js?utv=ut4.011.201703080612,179ms

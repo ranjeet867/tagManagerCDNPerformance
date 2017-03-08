@@ -20,10 +20,6 @@ var i = 0;
 var file_h = fs.open('url.csv', 'r');
 loadPage();
     function loadPage() {
-        if(i > 10) {
-            //phantom.exit();
-        }
-
         var line = file_h.readLine();
         i++;
         var url = line.split(',')[0];
@@ -31,6 +27,7 @@ loadPage();
         console.log(url);
 
         var page = webpage.create();
+        page.settings.clearMemoryCaches = true;
         page.settings.loadImages = false;
         page.clearMemoryCache();
         page.open(url, function (status) {
