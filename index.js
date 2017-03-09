@@ -23,14 +23,13 @@ loadPage();
 function loadPage() {
     var line = file_h.readLine();
     console.log(i);
-    if (i > 10) {
+    if (i > 50) {
         console.log(new Date().getTime() - startTime);
         setTimeout(function() {
           setTimeout(function() {
             phantom.exit();
           }, 1);
-      }, 1000);
-
+      }, 10000);
     }
     var url = line.split(',')[0];
     url = "http://" + url;
