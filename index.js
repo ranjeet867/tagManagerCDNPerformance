@@ -22,6 +22,9 @@ loadPage();
     function loadPage() {
         var line = file_h.readLine();
         i++;
+        if (i > 50) {
+            phantom.exit(0);
+        }
         var url = line.split(',')[0];
         url = "http://" + url;
         console.log(url);
