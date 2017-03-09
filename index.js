@@ -4,8 +4,7 @@ var fs = require('fs'),
     args = system.args,
     requests = {},
     requestTime = {},
-    startTime = '',
-    childProcess = require('child_process'),
+    startTime = new Date().getTime(),
     patterns = {
         'GTM': /googletagmanager\.com/,
         'Ensighten': /ensighten\.com/,
@@ -18,27 +17,35 @@ var fs = require('fs'),
 
 var i = 0;
 var file_h = fs.open('url.csv', 'r');
-loadPage();
-    function loadPage() {
-        var line = file_h.readLine();
-        i++;
-        if (i > 50) {
-            phantom.exit(0);
-        }
-        var url = line.split(',')[0];
-        url = "http://" + url;
-        console.log(url);
 
-        var page = webpage.create();
-        page.settings.clearMemoryCaches = true;
-        page.settings.loadImages = false;
-        page.clearMemoryCache();
-        page.open(url, function (status) {
-            if (status !== 'success') {
-                console.log('FAIL to load the address');
-                return;
-            }
-        });
+loadPage();
+
+function loadPage() {
+    var line = file_h.readLine();
+    console.log(i);
+    if (i > 10) {
+        console.log(new Date().getTime() - startTime);
+        setTimeout(function() {
+          setTimeout(function() {
+            phantom.exit();
+          }, 1);
+      }, 1000);
+
+    }
+    var url = line.split(',')[0];
+    url = "http://" + url;
+    console.log(url);
+
+    var page = webpage.create();
+    page.settings.clearMemoryCaches = true;
+    page.settings.loadImages = false;
+    page.clearMemoryCache();
+    page.open(url, function (status) {
+        if (status !== 'success') {
+            console.log('FAIL to load the address');
+            return;
+        }
+    });
 
     page.onResourceRequested = function (requestData, networkRequest) {
         for (var key in patterns) {
@@ -65,6 +72,7 @@ loadPage();
                     var reqD = {"url" : response.url, 'time' : tm + "ms"};
                     requests[key].push(reqD);
                     fs.write('data.csv', url + "," + key + "," + response.url + "," + tm + "ms\n", 'a');
+                    console.log('kj=' + i);
                 }
             }
         }
@@ -74,10 +82,10 @@ loadPage();
         setTimeout(function() {
           setTimeout(function() {
             page.close();
+            i++;
+            loadPage();
           }, 1);
-        }, 1000);
-
-        loadPage();
+      }, 1000);
     };
 }
 
