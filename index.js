@@ -25,11 +25,7 @@ function loadPage() {
     console.log(i);
     if (i > 50) {
         console.log(new Date().getTime() - startTime);
-        setTimeout(function() {
-          setTimeout(function() {
-            phantom.exit();
-          }, 1);
-      }, 10000);
+        phantom.exit();
     }
     var url = line.split(',')[0];
     url = "http://" + url;
@@ -49,29 +45,20 @@ function loadPage() {
     page.onResourceRequested = function (requestData, networkRequest) {
         for (var key in patterns) {
             if (patterns[key].test(requestData.url)) {
-                if (!requests[key]) {
-                    requests[key] = [];
-                    requestTime[key] = [];
-                }
                 requestTime[requestData.url]  = new Date().getTime();
+                return;
             }
         }
-        requests.push(requestData.url);
     };
 
     page.onResourceReceived = function (response) {
         for (var key in patterns) {
             if (patterns[key].test(response.url)) {
-                if (!requests[key]) {
-                    requests[key] = [];
-                }
-
                 if (response.stage == "end") {
                     var tm = new Date().getTime() - requestTime[response.url];
-                    var reqD = {"url" : response.url, 'time' : tm + "ms"};
-                    requests[key].push(reqD);
                     fs.write('data.csv', url + "," + key + "," + response.url + "," + tm + "ms\n", 'a');
-                    console.log('kj=' + i);
+                    console.log('logging...' + i);
+                    return;
                 }
             }
         }

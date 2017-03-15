@@ -1,8 +1,7 @@
 #!/bin/bash
-for run in {1..95}
+for run in {1..125}
 do
-  echo "Hello World"
-  phantomjs index.js
-  sleep 1200000 & 
+  echo "Starting...$run"
+  phantomjs index.js &&
   sed -i '1,50d' url.csv
 done
