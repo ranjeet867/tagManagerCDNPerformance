@@ -1,5 +1,5 @@
 #!/bin/bash
-for run in {1..125}
+for run in {1..200}
 do
   echo "Starting...$run"
   phantomjs index.js &&
