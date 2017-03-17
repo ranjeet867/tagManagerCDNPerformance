@@ -15,7 +15,7 @@ var fs = require('fs'),
         'SuperTag': /(c\.supert\.ag)|(s\.supert\.ag)/
     };
 
-var i = 0;
+var i = 1;
 var file_h = fs.open('url.csv', 'r');
 
 loadPage();
@@ -23,10 +23,15 @@ loadPage();
 function loadPage() {
     var line = file_h.readLine();
     console.log(i);
-    if (i > 50) {
+    if (i > 10) {
         console.log(new Date().getTime() - startTime);
         phantom.exit();
     }
+
+    if(line == '') {
+        phantom.exit();
+    }
+
     var url = line.split(',')[0];
     url = "http://" + url;
     console.log(url);
