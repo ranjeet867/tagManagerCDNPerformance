@@ -43,6 +43,9 @@ function loadPage() {
     });
 
     page.onResourceRequested = function (requestData, networkRequest) {
+        if (requestData.url.indexOf('autodesk') > 0)
+            networkRequest.abort();
+
         for (var key in patterns) {
             if (patterns[key].test(requestData.url)) {
                 requestTime[requestData.url]  = new Date().getTime();
