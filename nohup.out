@@ -1,0 +1,2388 @@
+Starting...1
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://scholastic.com
+1
+http://mysynchrony.com
+logging...1
+Error: Cannot find module 'jquery'
+
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:1 in s
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:1
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:13087 in exports
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:13012
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:13020
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:1 in s
+  https://www.mysynchrony.com/cs/mysyf/responsive-com-synchronyfinancial-mysynchrony-app-general.js:1 in e
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+TypeError: undefined is not an object (evaluating 'BWA.Ex')
+
+  https://assets.adobedtm.com/307db967cfa340394ae9bd9d8a6361cd25bbf159/s-code-contents-29a59d7e05322f45b84cc67f2b268c4c6698e18b.js:445 in global code
+2
+http://jetblue.com
+logging...2
+logging...2
+3
+http://rightsourcerx.com
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+TypeError: undefined is not an object (evaluating 'i.length')
+
+  https://www.humanapharmacy.com/js/ocpsdk/jquery/jquery.js:32 in each
+  https://www.humanapharmacy.com/responsive/js/plugins/jquery-ui.js:427 in widget
+  https://www.humanapharmacy.com/responsive/js/plugins/jquery-ui.js:6065
+TypeError: undefined is not a function (evaluating '$(document).on')
+
+  https://www.humanapharmacy.com/js/common.js:1006 in global code
+TypeError: undefined is not a function (evaluating '$(".openAjaxLayerClose").on')
+
+  https://www.humanapharmacy.com/:163 in global code
+TypeError: undefined is not a function (evaluating '$(document).on')
+
+  https://www.humanapharmacy.com/js/common.js:1006 in global code
+TypeError: undefined is not a function (evaluating '$(".openAjaxLayerClose").on')
+
+  https://www.humanapharmacy.com/:243 in global code
+ReferenceError: Can't find variable: getAlertPanelDetails
+
+  https://www.humanapharmacy.com/:511 in global code
+TypeError: null is not an object (evaluating 'document.getElementById("noShopSupplies").value')
+
+  https://www.humanapharmacy.com/:1029 in no_Shop_Supplies
+TypeError: undefined is not an object (evaluating '$.browser.msie')
+
+  https://www.humanapharmacy.com/js/jquery.history.js:184
+TypeError: undefined is not a function (evaluating '$.initElementData()')
+
+  undefined:1
+  https://www.humanapharmacy.com/js/ocpsdk/jquery/jquery.js:28 in ready
+  https://www.humanapharmacy.com/js/ocpsdk/jquery/jquery.js:36 in t
+TypeError: undefined is not a function (evaluating '$.initElementData()')
+
+  undefined:1
+  https://www.humanapharmacy.com/js/ocpsdk/jquery/jquery.js:28 in ready
+  :0 in appendChild
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in _ensureFrame
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in Frame
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8
+  :0
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in fire
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in subscribe
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in N
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in getGlobalStore
+  https://gateway.answerscloud.com/code/19.3.2/fs.feedback.js:8
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in fire
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:9
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8 in fire
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8
+  :0
+  https://gateway.answerscloud.com/code/19.3.2/fs.utils.js:8
+4
+http://symantec.com
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+ReferenceError: Can't find variable: userName
+
+  https://www.symantec.com/:1686
+  https://www.symantec.com/etc/clientlibs/granite/jquery.min.js:777 in i
+  https://www.symantec.com/etc/clientlibs/granite/jquery.min.js:813 in fireWith
+  https://www.symantec.com/etc/clientlibs/granite/jquery.min.js:2438 in cg
+  https://www.symantec.com/etc/clientlibs/granite/jquery.min.js:2539 in i
+5
+http://ihg.com
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+6
+http://regions.com
+logging...6
+logging...6
+logging...6
+logging...6
+7
+http://caranddriver.com
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+8
+http://office365.com
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+TypeError: Cannot supply flags when constructing one RegExp from another.
+
+  https://tags.tiqcdn.com/utag/msft/office/prod/utag.5.js?utv=ut4.41.201703130704:11 in RegExp
+  https://tags.tiqcdn.com/utag/msft/office/prod/utag.5.js?utv=ut4.41.201703130704:11 in img
+  https://tags.tiqcdn.com/utag/msft/office/prod/utag.5.js?utv=ut4.41.201703130704:18 in dstillery
+  https://tags.tiqcdn.com/utag/msft/office/prod/utag.5.js?utv=ut4.41.201703130704:19 in temporary
+  https://tags.tiqcdn.com/utag/msft/office/prod/utag.5.js?utv=ut4.41.201703130704:4
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+9
+http://cosmopolitan.com
+logging...9
+logging...9
+logging...9
+10
+http://istockphoto.com
+logging...10
+logging...10
+logging...10
+11
+http://homeaway.com
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+12
+http://popularmechanics.com
+logging...12
+logging...12
+logging...12
+13
+http://etrade.com
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+14
+http://dr.dk
+logging...14
+logging...14
+logging...14
+logging...14
+TypeError: undefined is not an object (evaluating 'n.r.test')
+
+  http://iam.doipanel.dk/doipanel.js:1 in i
+  http://iam.doipanel.dk/doipanel.js:1 in A
+  http://iam.doipanel.dk/doipanel.js:1
+  http://www.dr.dk/:10 in nrWrapper
+15
+http://esquire.com
+logging...15
+logging...15
+logging...15
+16
+http://tdbank.com
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+TypeError: undefined is not a function (evaluating '$.labelEqualHeight('body')')
+
+  https://www.tdbank.com/assets-tdos/js/default.js:1712
+  https://www.tdbank.com/assets-tdos/js/jquery/jquery.js:2 in dispatch
+  https://www.tdbank.com/assets-tdos/js/jquery/jquery.js:2 in u
+TypeError: null is not an object (evaluating 'b.postMessage')
+
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:87 in postMessage
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:94 in ea
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:92 in p
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:92 in p
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:92 in p
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:92 in p
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:92 in p
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:91
+  https://nexus.ensighten.com/tdb/us-prod/Bootstrap.js:88
+TypeError: null is not an object (evaluating 'd.postMessage')
+
+  undefined:147 in postMessage
+  :118 in sendMessages
+  :116 in requestToProcess
+  :114
+  :139
+logging...16
+logging...16
+logging...16
+17
+http://theglobeandmail.com
+logging...17
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in onreadystatechange
+  :0 in open
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in e
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  :0 in forEach
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in callBids
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in requestBids
+  http://nexus.ensighten.com/globeandmail/prod/Bootstrap.js:324
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in i
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in onreadystatechange
+  :0 in open
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in e
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  :0 in forEach
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in callBids
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in requestBids
+  http://nexus.ensighten.com/globeandmail/prod/Bootstrap.js:324
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in i
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in onreadystatechange
+  :0 in open
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in e
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  :0 in forEach
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in callBids
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in requestBids
+  http://nexus.ensighten.com/globeandmail/prod/Bootstrap.js:324
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in i
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in onreadystatechange
+  :0 in open
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in e
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  :0 in forEach
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in callBids
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in requestBids
+  http://nexus.ensighten.com/globeandmail/prod/Bootstrap.js:324
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in i
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in onreadystatechange
+  :0 in open
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:4 in e
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  :0 in forEach
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in callBids
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in requestBids
+  http://nexus.ensighten.com/globeandmail/prod/Bootstrap.js:324
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in i
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3 in t
+  http://beta.images.theglobeandmail.com/static/ads/prebid/prebid_prod_10032016.js:3
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+ReferenceError: Can't find variable: Map
+
+  https://sec.images.theglobeandmail.com/static/athena/scripts/athena.core.js:675 in buildReqMap
+  https://sec.images.theglobeandmail.com/static/athena/scripts/athena.core.js:763 in controller
+  https://sec.images.theglobeandmail.com/static/athena/scripts/athena.core.js:796 in init
+  https://sec.images.theglobeandmail.com/static/athena/scripts/athena.init.js:66
+  http://www.theglobeandmail.com/:228 in nrWrapper
+18
+http://citibank.com
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+19
+http://royalbank.com
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+20
+http://panasonic.com
+logging...20
+logging...20
+21
+http://netsuite.com
+logging...21
+logging...21
+logging...21
+logging...21
+22
+http://statefarm.com
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+23
+http://citibankonline.com
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+logging...23
+24
+http://synchronycredit.com
+FAIL to load the address
+25
+http://scientificamerican.com
+logging...25
+TypeError: undefined is not an object (evaluating 'e.plyr.destroy')
+
+  https://www.scientificamerican.com/public/resources/main-564d3d638ff7f7003257d86e53c4e324.js:1 in plyrRender
+  https://www.scientificamerican.com/public/resources/main-564d3d638ff7f7003257d86e53c4e324.js:2 in plyr
+  https://www.scientificamerican.com/public/resources/main-564d3d638ff7f7003257d86e53c4e324.js:1 in LoadBehavior
+  https://www.scientificamerican.com/public/resources/main-564d3d638ff7f7003257d86e53c4e324.js:1 in onReady
+  https://www.scientificamerican.com/public/resources/main-564d3d638ff7f7003257d86e53c4e324.js:1
+logging...25
+logging...25
+26
+http://startribune.com
+logging...26
+logging...26
+logging...26
+27
+http://goodhousekeeping.com
+logging...27
+logging...27
+logging...27
+28
+http://arcot.com
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+TypeError: undefined is not an object (evaluating 'document.querySelectorAll('script[src*\x3d"post-widget.js"]')[0].src')
+
+  https://s.po.st/static/v4/post-widget.js#publisherKey=5jce32vuui2ks56celn:2
+29
+http://toyota.com
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+TypeError: undefined is not a function (evaluating 'Object.assign(data,TCOM_TAG)')
+
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:526 in analyticsEventListener
+  :0 in dispatchEvent
+  :2073 in l
+  :2073 in e
+  :2073 in g
+  :2073 in u
+  :2073 in p
+  :2073 in dispatchEvent
+  :2073 in de
+  :2073 in _process
+  :2073 in process
+  :2073 in l
+  :2073 in i
+  :2073 in dispatchEvent
+  :2073 in dispatchResults
+  :2073 in sync
+  :2073 in e
+  :2073 in f
+  :2073 in o
+  :2073 in dispatchEvent
+  :2073 in dispatchStatus
+  :2073 in setSyncStatus
+  :2073 in sendSyncReady
+  :2073
+  :0 in appendChild
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:671 in a
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:671 in R
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:677 in a
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:677 in bb
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:677 in xb
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:652 in k
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:651 in k
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:654 in _setMarketingCloudFields
+  http://nexus.ensighten.com/toyotanational/Bootstrap.js:668 in onreadystatechange
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+30
+http://elle.com
+logging...30
+logging...30
+logging...30
+31
+http://denverpost.com
+logging...31
+logging...31
+logging...31
+logging...31
+32
+http://petfinder.com
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+33
+http://boulanger.com
+FAIL to load the address
+34
+http://rbcroyalbank.com
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+35
+http://seagate.com
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+TypeError: null is not an object (evaluating 'document.body.appendChild')
+
+  http://nexus.ensighten.com/seagate/prod/code/f6efea60063fec2496ee4faa245b05c8.js?conditionId0=325015:41
+logging...35
+36
+http://oi.com.br
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+37
+http://harpersbazaar.com
+logging...37
+logging...37
+logging...37
+38
+http://countryliving.com
+logging...38
+logging...38
+logging...38
+39
+http://worldmarket.com
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+40
+http://digitalspy.com
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+41
+http://banamex.com
+logging...41
+logging...41
+logging...41
+logging...41
+ReferenceError: Can't find variable: s
+
+  https://nexus.ensighten.com/citi/mex_prod/code/d8575d258c41e3afcfb8adadfe5fc2c3.js?conditionId0=476853:3
+42
+http://staplesrewardscenter.com
+43
+http://dillards.com
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+44
+http://oldnavy.com
+logging...44
+logging...44
+45
+http://super8.com
+logging...45
+logging...45
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-se.1488884743478.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-se.1488884743478.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-se.1488884743478.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in K
+logging...45
+logging...45
+logging...45
+46
+http://mojang.com
+47
+http://flyfrontier.com
+logging...47
+logging...47
+48
+http://apartments.com
+49
+http://bestproducts.com
+logging...49
+logging...49
+logging...49
+50
+http://trendmicro.com
+logging...50
+logging...50
+logging...50
+logging...50
+logging...50
+logging...50
+51
+10121512
+Starting...2
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://trendmicro.com
+logging...0
+logging...0
+logging...0
+logging...0
+logging...0
+logging...0
+1
+http://safeway.com
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+2
+http://ncaa.com
+logging...2
+logging...2
+logging...2
+3
+http://modcloth.com
+logging...3
+logging...3
+logging...3
+logging...3
+4
+http://britishairways.com
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+5
+http://experian.com
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+6
+http://nascar.com
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+ReferenceError: Can't find variable: Type
+
+  http://galleries.nascar.com/ScriptResource.axd?d=jtQcIm82ILaYA5jL6ywnPz3ufpTzg6FiV7tYSXZJyXzD9EzQk-duDQJR1DXj0oepUCIDmudzJecHdzpD1ntC8U05pNOAljDWVVaWueLr1pwl0zVXjocY0DkqYieHB66VYUfQUFOciUIpuyiYSkOqfg2&t=254cc609:10 in execute
+  http://galleries.nascar.com/ScriptResource.axd?d=jtQcIm82ILaYA5jL6ywnPz3ufpTzg6FiV7tYSXZJyXzD9EzQk-duDQJR1DXj0oepUCIDmudzJecHdzpD1ntC8U05pNOAljDWVVaWueLr1pwl0zVXjocY0DkqYieHB66VYUfQUFOciUIpuyiYSkOqfg2&t=254cc609:2134
+Error: ASP.NET Ajax client-side framework failed to load.
+
+  http://galleries.nascar.com/gallery/965/phoenix-international-raceway.noheader:89 in global code
+ReferenceError: Can't find variable: Type
+
+  http://galleries.nascar.com/ScriptResource.axd?d=xXARRqEj-kletJn4AWULcGOmwaYi5qGjhlaLk0ism6pnsDDvDvUw5LEFXHJi51NBRHKlTtSTsu3DR_-MblSmwMqFfvf5PvFqQyQqi7tRE6diKnXfttNeuUsn4Y0IYDyeyvPh4MWEYD85dWP5nQvOTXVWechqL3NNeSKWkIotzUE1&t=254cc609:10 in execute
+  http://galleries.nascar.com/ScriptResource.axd?d=xXARRqEj-kletJn4AWULcGOmwaYi5qGjhlaLk0ism6pnsDDvDvUw5LEFXHJi51NBRHKlTtSTsu3DR_-MblSmwMqFfvf5PvFqQyQqi7tRE6diKnXfttNeuUsn4Y0IYDyeyvPh4MWEYD85dWP5nQvOTXVWechqL3NNeSKWkIotzUE1&t=254cc609:2134
+ReferenceError: Can't find variable: Sys
+
+  http://galleries.nascar.com/gallery/965/phoenix-international-raceway.noheader:101 in global code
+ReferenceError: Can't find variable: WebForm_AutoFocus
+
+  http://galleries.nascar.com/gallery/965/phoenix-international-raceway.noheader:114 in global code
+7
+http://easyjet.com
+logging...7
+logging...7
+logging...7
+logging...7
+8
+http://humana.com
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+logging...8
+9
+http://tjx.com
+FAIL to load the address
+10
+http://huntington.com
+logging...10
+logging...10
+logging...10
+logging...10
+11
+http://zaobao.com
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+12
+http://publix.com
+FAIL to load the address
+13
+http://fotolia.com
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+14
+http://mtb.com
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+You have included the Google Maps API multiple times on this page. This may cause unexpected errors.
+
+  http://maps.googleapis.com/maps/api/js?key=AIzaSyDApSZC23hMnMvCxDEMaodyiKZYEFxlM4g&libraries=places&sensor=true&callback=initialize:104 in hh
+15
+http://gymboree.com
+logging...15
+logging...15
+logging...15
+logging...15
+16
+http://banamex.com.mx
+logging...16
+logging...16
+logging...16
+logging...16
+17
+http://tesco.com
+TypeError: undefined is not an object (evaluating '_satellite.getVar("busPageLanguage").toLowerCase')
+
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:7
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:3
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:3
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:2 in each
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:3 in executeCustomSetupFuns
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:3 in sendBeacon
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:3 in onSCodeLoaded
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:2
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:2 in i
+  http://assets.adobedtm.com/07f4803ba7577af91bd0d0bb989cce05e8f2a5c8/satelliteLib-0ae141e3e8bba6a6671c57e9fba7c01799b47ec4.js:2 in onload
+18
+http://motorola.com
+logging...18
+19
+http://mycokerewards.com
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+Error: Mismatched anonymous define() module: function () {return UAParser;}
+http://requirejs.org/docs/errors.html#mismatch
+
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/require.js:138 in defaultOnError
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/require.js:536 in onError
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/require.js:1220 in intakeDefines
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/require.js:1398 in localRequire
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/require.js:1722 in requirejs
+TypeError: undefined is not a constructor (evaluating 'new columnComponent({
+      wrapper: $('#1489684297172')
+    })')
+
+  https://www.mycokerewards.com/content/home.html:1365 in global code
+TypeError: undefined is not a constructor (evaluating 'new columnComponent({
+      wrapper: $('#1489684297181')
+    })')
+
+  https://www.mycokerewards.com/content/home.html:1658 in global code
+TypeError: undefined is not a constructor (evaluating 'new columnComponent({
+      wrapper: $('#1489684297199')
+    })')
+
+  https://www.mycokerewards.com/content/home.html:2222 in global code
+TypeError: undefined is not a constructor (evaluating 'new columnComponent({
+      wrapper: $('#1489684297208')
+    })')
+
+  https://www.mycokerewards.com/content/home.html:2591 in global code
+TypeError: null is not an object (evaluating 'result.tiles.length')
+
+  https://www.mycokerewards.com/content/home.html:3359 in buildSuggestionsArray
+  https://www.mycokerewards.com/content/home.html:3385 in success
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/jquery.js:2913 in fire
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/jquery.js:3025 in fireWith
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/jquery.js:7400 in done
+  https://www.mycokerewards.com/etc/designs/mcr/default/global/js/jquery.js:7822
+20
+http://jamieoliver.com
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+21
+http://nzz.ch
+logging...21
+logging...21
+logging...21
+logging...21
+22
+http://marieclaire.com
+logging...22
+logging...22
+logging...22
+23
+http://baltimoresun.com
+logging...23
+logging...23
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.baltimoresun.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.baltimoresun.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.baltimoresun.com/:2 in global code
+ReferenceError: Strict mode forbids implicit creation of global property 'HTMLVideoElement'
+
+  http://player.performgroup.com/spieler/releases/1.31.0/ng-spieler.js:6 in Browser
+  http://player.performgroup.com/spieler/releases/1.31.0/ng-spieler.js:5
+  http://player.performgroup.com/spieler/releases/1.31.0/ng-spieler.js:5
+Error: [$injector:modulerr] http://errors.angularjs.org/1.2.28/$injector/modulerr?p0=eplayer.EPlayer&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.2.28%2F%24injector%2Fmodulerr%3Fp0%3Deplayer.PlaybackController%26p1%3D%255B%2524injector%253Amodulerr%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.2.28%252F%2524injector%252Fmodulerr%253Fp0%253DngSpieler%2526p1%253D%25255B%252524injector%25253Anomod%25255D%252520http%25253A%25252F%25252Ferrors.angularjs.org%25252F1.2.28%25252F%252524injector%25252Fnomod%25253Fp0%25253DngSpieler%25250Ahttp%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A48%25253A3%25250Ahttp%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A48%25253A502%25250Ahttp%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A269%25250Ar%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A34%25253A294%25250Ae%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A208%25250Ahttp%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A285%25250Ar%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A34%25253A294%25250Ae%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A208%25250Ahttp%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A285%25250Ar%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A34%25253A294%25250Ae%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A60%25253A208%25250Aec%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A63%25253A310%25250Ac%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A45%25253A166%25250Adc%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A45%25253A382%25250Aglobal%252520code%252540http%25253A%25252F%25252Fplayer.performgroup.com%25252Feplayer%25252Feplayer.html%252523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%252524location%25253Dhttp%252525253A%252525252F%252525252Fwww.baltimoresun.com%252525252F%252526visibility%25253Dvisible%252526secure%25253Dfalse%252526embedStyle%25253Ds%25253A491%25253A24%250Ahttp%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A61%253A135%250Ar%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A34%253A294%250Ae%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A60%253A208%250Ahttp%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A60%253A285%250Ar%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A34%253A294%250Ae%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A60%253A208%250Ahttp%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A60%253A285%250Ar%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A34%253A294%250Ae%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A60%253A208%250Aec%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A63%253A310%250Ac%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A45%253A166%250Adc%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A45%253A382%250Aglobal%2520code%2540http%253A%252F%252Fplayer.performgroup.com%252Feplayer%252Feplayer.html%2523e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%2524location%253Dhttp%2525253A%2525252F%2525252Fwww.baltimoresun.com%2525252F%2526visibility%253Dvisible%2526secure%253Dfalse%2526embedStyle%253Ds%253A491%253A24%0Ahttp%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A61%3A135%0Ar%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A34%3A294%0Ae%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A60%3A208%0Ahttp%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A60%3A285%0Ar%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A34%3A294%0Ae%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A60%3A208%0Aec%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A63%3A310%0Ac%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A45%3A166%0Adc%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A45%3A382%0Aglobal%20code%40http%3A%2F%2Fplayer.performgroup.com%2Feplayer%2Feplayer.html%23e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s%24location%3Dhttp%25253A%25252F%25252Fwww.baltimoresun.com%25252F%26visibility%3Dvisible%26secure%3Dfalse%26embedStyle%3Ds%3A491%3A24
+
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:61
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:34 in r
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:60 in e
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:63 in ec
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:45 in c
+  http://player.performgroup.com/eplayer/eplayer.html#e60b8d3adc374317d04c8f388c.p2csvbk9xeyy12pelqixzsm7w.s$location=http%253A%252F%252Fwww.baltimoresun.com%252F&visibility=visible&secure=false&embedStyle=s:45 in dc
+24
+http://seattlepi.com
+logging...24
+logging...24
+logging...24
+logging...24
+logging...24
+logging...24
+logging...24
+TypeError: Object is not a function (near '...})(self)...')
+
+  http://cdn.pointslocal.com/pointslocal.widgets.js:443
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in j
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in fireWith
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in x
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in b
+TypeError: Object is not a function (near '...})(self)...')
+
+  http://cdn.pointslocal.com/pointslocal.widgets.js:443
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in j
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in fireWith
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in x
+  http://www.seattlepi.com/external/js/global.allPages.r8.4.0.12.js:1 in b
+25
+http://sky.it
+VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. [object Object]
+
+  http://nst.sky.it/etc/designs/skyit/vendor/video-min.js:7 in r
+VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. [object Object]
+
+  http://nst.sky.it/etc/designs/skyit/vendor/video-min.js:7 in r
+26
+http://equifax.com
+logging...26
+logging...26
+logging...26
+logging...26
+logging...26
+logging...26
+27
+http://tdcanadatrust.com
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+28
+http://paypal.de
+logging...28
+29
+http://rbc.com
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+30
+http://nikonusa.com
+logging...30
+logging...30
+logging...30
+logging...30
+logging...30
+TypeError: undefined is not an object (evaluating 'mboxFactories.get('default').get('target-global-mbox',0).setOffer')
+
+  http://nikon.tt.omtrdc.net/m2/nikon/viztarget?mboxHost=www.nikonusa.com&mboxSession=1489857171822-965523&mboxPage=1489857171875-501597&screenHeight=768&screenWidth=1024&browserWidth=400&browserHeight=300&browserTimeOffset=0&colorDepth=32&mbox=target-global-mbox&mboxId=0&mboxCount=1&mboxTime=1489857171875&mboxURL=http%3A%2F%2Fwww.nikonusa.com%2Fen%2Findex.page&mboxReferrer=&mboxVersion=43:1 in global code
+logging...30
+logging...30
+31
+http://shoplocal.com
+32
+http://fossil.com
+logging...32
+33
+http://nadaguides.com
+logging...33
+logging...33
+logging...33
+logging...33
+logging...33
+logging...33
+34
+http://lanebryant.com
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+35
+http://onenote.com
+logging...35
+logging...35
+logging...35
+36
+http://msdn.com
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+37
+http://intuit-gopayment.com
+logging...37
+logging...37
+logging...37
+38
+http://minecraft.net
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+39
+http://brownells.com
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+40
+http://sun-sentinel.com
+logging...40
+logging...40
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.sun-sentinel.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.sun-sentinel.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.sun-sentinel.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.sun-sentinel.com/:2 in global code
+41
+http://citizensbank.com
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+TypeError: null is not an object (evaluating 'htmlElement.style')
+
+  https://www.citizensbank.com/assets/CB_resources/scripts/personalization_jquery.js:25 in swapLeaderboard
+  https://www.citizensbank.com/assets/CB_resources/scripts/personalization_jquery.js:47 in rfDecision
+42
+http://intuitfullservicepayroll.com
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+43
+http://cdw.com
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+44
+http://orlandosentinel.com
+logging...44
+logging...44
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.orlandosentinel.com/:2 in global code
+45
+http://cartoonnetwork.com
+FAIL to load the address
+46
+http://roadandtrack.com
+logging...46
+logging...46
+logging...46
+47
+http://verizon.net
+logging...47
+logging...47
+logging...47
+logging...47
+SyntaxError: Expected an identifier but found 'll' instead
+
+  http://fiostrending.verizon.com/:8 in write
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:199 in mo
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:241 in Dm
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:239 in Po
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:237 in da
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:9 in H
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:231 in I
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:71
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:222
+48
+http://seventeen.com
+logging...48
+logging...48
+logging...48
+49
+http://military.com
+50
+http://twcc.com
+TypeError: undefined is not a function (evaluating 'n.startsWith("exception>exception>")')
+
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:14 in customJS
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in realGetDataElement
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in getDataElement
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in getVar
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10
+  :0 in replace
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in replace
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in substituteVariables
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in initialize
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in endPLPhase
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in firePageLoadEvent
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in init
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:12
+51
+1221827
+Starting...3
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://twcc.com
+TypeError: undefined is not a function (evaluating 'n.startsWith("exception>exception>")')
+
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:14 in customJS
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in realGetDataElement
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in getDataElement
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in getVar
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10
+  :0 in replace
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in replace
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in substituteVariables
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in initialize
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:11 in endPLPhase
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in firePageLoadEvent
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:10 in init
+  http://assets.adobedtm.com/a011e94b6ba81cdcfdf24acdb480b5e4204c4dea/satelliteLib-97363e1e0783d52639daa0799000fce62ffa6369.js:12
+1
+http://citicards.com
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+2
+http://momondo.com
+logging...2
+logging...2
+logging...2
+logging...2
+logging...2
+logging...2
+logging...2
+3
+http://housebeautiful.com
+logging...3
+logging...3
+logging...3
+4
+http://libertymutual.com
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+5
+http://ramada.com
+logging...5
+logging...5
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-ra.1488884743478.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-ra.1488884743478.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-ra.1488884743478.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in K
+logging...5
+logging...5
+6
+http://cheapflights.com
+7
+http://beenverified.com
+logging...7
+8
+http://womansday.com
+logging...8
+logging...8
+logging...8
+9
+http://northlandsnewscenter.com
+logging...9
+10
+http://rue21.com
+logging...10
+logging...10
+logging...10
+logging...10
+logging...10
+logging...10
+logging...10
+ReferenceError: Can't find variable: imgPath
+
+  http://www.rue21.com/store/:2257
+  http://www.rue21.com/store/:119 in nrWrapper
+11
+http://digitalspy.co.uk
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+12
+http://mlbshop.com
+13
+http://moneysupermarket.com
+logging...13
+logging...13
+logging...13
+logging...13
+logging...13
+14
+http://quill.com
+logging...14
+logging...14
+logging...14
+15
+http://subaru.com
+16
+http://johnlewis.com
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+logging...16
+17
+http://daysinn.com
+logging...17
+logging...17
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-di.1488884743478.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-di.1488884743478.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-di.1488884743478.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in K
+logging...17
+logging...17
+logging...17
+18
+http://tiaa-cref.org
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+19
+http://experiandirect.com
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+20
+http://bringyourchallenges.com
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+logging...20
+21
+http://williamhill.es
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+22
+http://lifewiseor.com
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+23
+http://charterone.com
+FAIL to load the address
+24
+http://adultswim.com
+logging...24
+logging...24
+logging...24
+25
+http://hrdepartment.com
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+26
+http://hcsc.net
+27
+http://shopjustice.com
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+28
+http://lexus.com
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+29
+http://travelodge.com
+logging...29
+logging...29
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-tl.1488884743478.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-tl.1488884743478.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-tl.1488884743478.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in K
+logging...29
+logging...29
+logging...29
+30
+http://prudential.com
+logging...30
+logging...30
+logging...30
+logging...30
+logging...30
+logging...30
+logging...30
+logging...30
+31
+http://zales.com
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+32
+http://accountonline.com
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+33
+http://williamhill.com
+34
+http://vzw.com
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+35
+http://rs-online.com
+36
+http://sbs.com.au
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+37
+http://mayoclinic.com
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+38
+http://dollargeneral.com
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+logging...38
+39
+http://nationwide.com
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+TypeError: null is not an object (evaluating 'tE.parentNode')
+
+  https://www.nationwide.com/:919 in global code
+40
+http://microsoftstore.com.cn
+logging...40
+logging...40
+logging...40
+logging...40
+41
+http://tcm.com
+logging...41
+logging...41
+logging...41
+42
+http://pcfinancial.ca
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+43
+http://sfchronicle.com
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+44
+http://hojo.com
+logging...44
+logging...44
+logging...44
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-hj.1488885534150.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-hj.1488885534150.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-hj.1488885534150.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488885534599.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488885534599.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488885534599.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488885534599.js:2 in K
+logging...44
+logging...44
+45
+http://clarksusa.com
+logging...45
+logging...45
+logging...45
+logging...45
+logging...45
+logging...45
+logging...45
+logging...45
+46
+http://straitstimes.com
+logging...46
+TypeError: undefined is not an object (evaluating 'data.ids.tpc')
+
+  http://www.straitstimes.com/global:127 in SPHCallback
+logging...46
+logging...46
+logging...46
+logging...46
+TypeError: null is not an object (evaluating 'paywallUserSession.deviceId')
+
+  http://www.straitstimes.com/global:4292
+TypeError: undefined is not an object (evaluating 'myPlayer.pause')
+
+  http://www.straitstimes.com/global:1637
+  http://www.straitstimes.com/sites/default/files/js/js_SVq9iKRs_zDCxLo1JNNm7Cgvo_36UjooUTG_HwKIgLU.js:5 in dispatch
+  http://www.straitstimes.com/sites/default/files/js/js_SVq9iKRs_zDCxLo1JNNm7Cgvo_36UjooUTG_HwKIgLU.js:5 in handle
+47
+http://kauppalehti.fi
+logging...47
+logging...47
+logging...47
+logging...47
+48
+http://iltalehti.fi
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+49
+http://gnc.com
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+TypeError: undefined is not a function (evaluating 'c.includes("Edit")')
+
+  http://content.shoprunner.com/GNC.js:273 in Sa
+  http://content.shoprunner.com/GNC.js:274 in Bc
+  http://content.shoprunner.com/GNC.js:276 in trackPage
+50
+http://vita.mn
+logging...50
+logging...50
+logging...50
+51
+1132733
+Starting...4
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://vita.mn
+logging...0
+logging...0
+logging...0
+1
+http://telus.com
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+2
+http://xoom.com
+logging...2
+logging...2
+logging...2
+FAIL to load the address
+3
+http://brooksbrothers.com
+logging...3
+logging...3
+logging...3
+logging...3
+4
+http://corbisimages.com
+logging...4
+logging...4
+logging...4
+logging...4
+logging...4
+5
+http://sandiegouniontribune.com
+logging...5
+logging...5
+6
+http://paypal.me
+ReferenceError: Can't find variable: PAYPAL
+
+  https://www.paypal.me/:1
+logging...6
+TypeError: undefined is not an object (evaluating 'window.fpti.cust')
+
+  https://www.paypalobjects.com/tagmgmt/codefiles/a9c4aeff86b95c5cb3349adbbdf3698b.js?conditionId0=378623:1
+  https://www.paypalobjects.com/tagmgmt/bootstrap.js:117 in doChecks
+  https://www.paypalobjects.com/tagmgmt/bootstrap.js:117
+7
+http://courant.com
+logging...7
+logging...7
+8
+http://sfsu.edu
+9
+http://bluebird.com
+10
+http://staples.ca
+11
+http://amextravel.com
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+12
+http://kay.com
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+logging...12
+TypeError: undefined is not a function (evaluating 'Math.trunc(window.sdl_OrderCouponVal)')
+
+  http://nexus.ensighten.com/sterlingjewelers/prod/code/bc5f3f2e31fa30ce7173c436838b1e3d.js?conditionId0=305338:8 in bk_async
+  http://tags.bkrtx.com/js/bk-coretag.js:6
+13
+http://elisa.fi
+logging...13
+14
+http://payroll.com
+logging...14
+logging...14
+logging...14
+logging...14
+15
+http://ritzcarlton.com
+logging...15
+logging...15
+logging...15
+logging...15
+logging...15
+logging...15
+16
+http://rfi.fr
+logging...16
+logging...16
+logging...16
+logging...16
+17
+http://sherwin-williams.com
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+18
+http://ualmiles.com
+logging...18
+19
+http://bigtex.com
+logging...19
+logging...19
+logging...19
+20
+http://safewayfoundation.org
+logging...20
+logging...20
+logging...20
+21
+http://ca.com
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+logging...21
+Facebook Pixel Error: Duplicate Pixel ID: 393009930853077
+
+  https://connect.facebook.net/en_US/fbevents.js:9 in hb
+Facebook Pixel Error: Duplicate Pixel ID: 393009930853077
+
+  https://connect.facebook.net/en_US/fbevents.js:9 in hb
+22
+http://sony.ru
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+23
+http://optumrx.com
+Unable to read CSRF meta information
+
+  https://www.optumrx.com/etc/clientlibs/granite/jquery/granite.js:251
+24
+http://optum.com
+No suitable store implementation found for type: "contexthub.geolocation".
+
+  :0 in error
+25
+http://baymontinns.com
+logging...25
+logging...25
+TypeError: null is not an object (evaluating 'this.getSrtingAfter(this.agent,"version").split')
+
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-bu.1488884743478.js:5 in checkBrowser
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-bu.1488884743478.js:5 in init
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-bu.1488884743478.js:5
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in i
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in fireWith
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in ready
+  https://www.wyndhamhotels.com/etc/designs/wyndham-tablet/clientlibs-analytics.1488884743899.js:2 in K
+logging...25
+logging...25
+logging...25
+26
+http://mydickssportinggoods.com
+logging...26
+logging...26
+logging...26
+27
+http://whirlpoolhomedepot.com
+logging...27
+logging...27
+logging...27
+28
+http://kitchenaid.com
+logging...28
+29
+http://whirlpool.com
+logging...29
+30
+http://clipart.me
+31
+http://zaobao.com.sg
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+logging...31
+32
+http://size.co.uk
+FAIL to load the address
+33
+http://arkansashunting.net
+logging...33
+34
+http://wcvb.com
+logging...34
+logging...34
+logging...34
+35
+http://webnews.it
+logging...35
+logging...35
+logging...35
+36
+http://sony.co.in
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+37
+http://christmastreeshops.com
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+TypeError: null is not an object (evaluating '$(".PDPvideo")[0]')
+
+  http://www.christmastreeshops.com/text/inc/initVideo.js?v=160729-01:189
+38
+http://chebanca.it
+logging...38
+logging...38
+logging...38
+logging...38
+39
+http://fotogramas.es
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+40
+http://heathrowairport.com
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+41
+http://dressbarn.com
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+42
+http://charteroneonline.com
+FAIL to load the address
+43
+http://survivalistboards.com
+logging...43
+logging...43
+logging...43
+44
+http://carrentals.com
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+logging...44
+45
+http://napaonline.com
+46
+http://momondo.ru
+47
+http://evine.com
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+logging...47
+48
+http://metlife.com
+logging...48
+logging...48
+logging...48
+49
+http://maurices.com
+logging...49
+logging...49
+logging...49
+logging...49
+Failed to load module `bvjs-apps` Can't find variable: Map
+
+  https://apps.bazaarvoice.com/deployments/maurices/product_recommendations/production/en_US/bv.js:10
+50
+http://cosmopolitan.co.uk
+logging...50
+logging...50
+logging...50
+logging...50
+logging...50
+51
+1511094
+Starting...5
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://cosmopolitan.co.uk
+logging...0
+logging...0
+logging...0
+logging...0
+logging...0
+1
+http://letsrun.com
+2
+http://flysas.com
+logging...2
+3
+http://autoweek.com
+Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher
+
+  http://autoweek.com/sites/all/themes/autoweek_revised/js/bootstrap.min.js:6
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+4
+http://travelers.com
+logging...4
+logging...4
+logging...4
+logging...4
+Facebook Pixel Error: Duplicate Pixel ID: 1752121998332960
+
+  https://connect.facebook.net/en_US/fbevents.js:9 in hb
+5
+http://redbookmag.com
+logging...5
+logging...5
+logging...5
+6
+http://netdoctor.co.uk
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+logging...6
+7
+http://hmhco.com
+TypeError: undefined is not an object (evaluating 's.rl[u]')
+
+  undefined:1 in mrq
+8
+http://geotrust.com
+logging...8
+logging...8
+logging...8
+logging...8
+9
+http://iberia.com
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+TypeError: undefined is not a function (evaluating 'performance.getEntriesByType("resource")')
+
+  http://www.iberia.com/ibcomv3/rbrand/scripts/tealeaf.js:564 in calculate_load_times
+  http://www.iberia.com/ibcomv3/rbrand/scripts/tealeaf.js:590
+10
+http://kcra.com
+logging...10
+logging...10
+logging...10
+11
+http://monster.ca
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+logging...11
+12
+http://cartoonnetworkarabic.com
+logging...12
+logging...12
+logging...12
+logging...12
+13
+http://christopherandbanks.com
+logging...13
+logging...13
+logging...13
+logging...13
+14
+http://venere.com
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+logging...14
+Facebook Pixel Error: Duplicate Pixel ID: 1439757032903300
+
+  https://connect.facebook.net/en_US/fbevents.js:9 in hb
+15
+http://landandfarm.com
+FAIL to load the address
+16
+http://centerpointenergy.com
+FAIL to load the address
+17
+http://serve.com
+logging...17
+TypeError: undefined is not a constructor (evaluating 'new base()')
+
+  https://web.aexp-static.com/us/content/serve/sharedjs/Serve/jquery-mobile.js:810 in widget
+  https://web.aexp-static.com/us/content/serve/sharedjs/Serve/jquery-mobile.js:4400
+  https://web.aexp-static.com/us/content/serve/sharedjs/Serve/jquery-mobile.js:12435
+  https://web.aexp-static.com/us/content/serve/sharedjs/Serve/jquery-mobile.js:12731
+  https://web.aexp-static.com/us/content/serve/sharedjs/Serve/jquery-mobile.js:22
+logging...17
+logging...17
+logging...17
+logging...17
+18
+http://wycliffeassociates.org
+logging...18
+logging...18
+logging...18
+19
+http://wmur.com
+logging...19
+logging...19
+logging...19
+20
+http://kcci.com
+logging...20
+logging...20
+logging...20
+21
+http://asda.com
+logging...21
+22
+http://hoteles.com
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+logging...22
+23
+http://hollandamerica.com
+24
+http://steelers.com
+25
+http://mcall.com
+logging...25
+logging...25
+26
+http://microsofthup.com
+logging...26
+TypeError: undefined is not an object (evaluating 'e.cssHooks')
+
+  https://c5.img.digitalriver.com/gtimages/store-mc-uri/mshup15/assets/local/js/libs/jquery.nicescroll.min.js:108
+logging...26
+logging...26
+logging...26
+logging...26
+logging...26
+27
+http://vons.com
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+logging...27
+28
+http://citibank.com.hk
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+29
+http://rasmussen.edu
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+logging...29
+30
+http://jetairways.com
+logging...30
+31
+http://citibank.com.sg
+32
+http://365psd.com
+logging...32
+logging...32
+logging...32
+33
+http://suncorpbank.com.au
+logging...33
+logging...33
+logging...33
+logging...33
+logging...33
+34
+http://virgin-atlantic.com
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+logging...34
+35
+http://mayo.edu
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+logging...35
+36
+http://mileageplus.com
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+logging...36
+37
+http://dynamics.com
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+logging...37
+Facebook Pixel Error: Duplicate Pixel ID: 1460470467537954
+
+  https://connect.facebook.net/en_US/fbevents.js:9 in hb
+logging...37
+38
+http://elledecor.com
+logging...38
+logging...38
+logging...38
+39
+http://bcbsm.com
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+logging...39
+40
+http://colehaan.com
+logging...40
+logging...40
+logging...40
+logging...40
+logging...40
+41
+http://pureloveforpets.com
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+logging...41
+42
+http://1800contacts.com
+logging...42
+logging...42
+TypeError: undefined is not an object (evaluating 'app.page.type')
+
+  https://www.1800contacts.com/on/demandware.static/Sites-1800contacts-Site/-/default/v1489786027270/js/ensighten_client.js:1 in init
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+logging...42
+43
+http://elle.co.jp
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+44
+http://ticketnetwork.com
+logging...44
+logging...44
+logging...44
+45
+http://clarks.co.uk
+logging...45
+logging...45
+logging...45
+logging...45
+logging...45
+46
+http://tntdrama.com
+logging...46
+logging...46
+logging...46
+logging...46
+By using this site, you agree to TNT’s <a class='legaltoast' href='/terms.html'>Terms of Use</a> and <a class='legaltoast' href='/privacy.html'>Privacy Policy</a>.
+
+  http://www.tntdrama.com/js/framework.js:824 in legalMessage
+47
+http://motorola.com.br
+logging...47
+48
+http://jared.com
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+logging...48
+TypeError: undefined is not a function (evaluating 'Math.trunc(window.sdl_OrderCouponVal)')
+
+  http://nexus.ensighten.com/sterlingjewelers/prod/code/8bf14e31d9c4b472023ac0feb66722c1.js?conditionId0=305339:5 in bk_async
+  http://tags.bkrtx.com/js/bk-coretag.js:6
+49
+http://delcam.com
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+logging...49
+TypeError: Object is not a function (evaluating 'require')
+
+  https://static-dc.autodesk.net/etc/designs/v201703131845/templates-general/skins/troposphere/clientlibs.min.js:1
