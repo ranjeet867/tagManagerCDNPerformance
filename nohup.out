@@ -34760,3 +34760,1040 @@ logging...50
 logging...50
 51
 936641
+Starting...1
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://greenmountainenergy.com
+logging...0
+logging...0
+logging...0
+logging...0
+logging...0
+logging...0
+1
+http://bauhaus.fi
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+logging...1
+2
+http://mobulstore.com
+TypeError: undefined is not an object (evaluating 'window.ui_init_object.auto_init')
+
+  http://www.mobulstore.com/wp-content/cache/wpfc-minified/162dab8c1089b976fc3abb83cada4866/1489618457index.js:3
+logging...2
+logging...2
+logging...2
+logging...2
+3
+http://tessuti.co.uk
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+TypeError: undefined is not a function (evaluating 'Array(7).fill(i)')
+
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:30 in O
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:29
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:30 in P
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:29
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:10
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:10 in u
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:10 in fireWith
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:12 in n
+  https://www.tessuti.co.uk/skins/desktop/public/dist/app.js?0187f8:12 in i
+4
+http://sfopera.com
+logging...4
+logging...4
+logging...4
+logging...4
+5
+http://lv.com
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+logging...5
+6
+http://volkswagen.de
+7
+http://palazzo.com
+logging...7
+8
+http://hepsiburada.com
+FAIL to load the address
+9
+http://petcentric.com
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+logging...9
+ReferenceError: Can't find variable: addArchiveLink
+
+  http://www.petcentric.com/assets/js/build/app.min.js:7
+  http://www.petcentric.com/assets/js/lib/require.js:1678 in execCb
+  http://www.petcentric.com/assets/js/lib/require.js:878 in check
+  http://www.petcentric.com/assets/js/lib/require.js:1165 in enable
+  http://www.petcentric.com/assets/js/lib/require.js:1538 in enable
+  http://www.petcentric.com/assets/js/lib/require.js:1150
+  http://www.petcentric.com/assets/js/lib/require.js:131
+  http://www.petcentric.com/assets/js/lib/require.js:56 in each
+  http://www.petcentric.com/assets/js/lib/require.js:1102 in enable
+  http://www.petcentric.com/assets/js/lib/require.js:783 in init
+  http://www.petcentric.com/assets/js/lib/require.js:1441
+Facebook Pixel Error: Duplicate Pixel ID: 1533188473630605
+
+  http://connect.facebook.net/en_US/fbevents.js:9 in hb
+10
+http://mysuperamerica.com
+logging...10
+logging...10
+logging...10
+logging...10
+11
+http://emc.com
+logging...11
+logging...11
+logging...11
+logging...11
+Evidon Notice: pid/ocid not found.
+
+  https://c.betrad.com/geo/h1.js:1
+  https://c.betrad.com/geo/h1.js:1
+12
+http://microsoft.fr
+13
+http://naturallyeducational.com
+logging...13
+logging...13
+ReferenceError: Can't find variable: googletag
+
+  http://www.naturallyeducational.com/:276 in global code
+14
+http://intuitpayments.com
+logging...14
+logging...14
+logging...14
+15
+http://nealcommunities.com
+logging...15
+16
+http://hoosierhomemade.com
+logging...16
+ReferenceError: Can't find variable: googletag
+
+  http://hoosierhomemade.com/:218 in global code
+logging...16
+ReferenceError: Can't find variable: CN
+
+  http://hoosierhomemade.com/:692 in global code
+TypeError: undefined is not an object (evaluating 'navigator.geolocation.getCurrentPosition=function(e,t){t({code:0})}')
+
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=5728295_54ff8e7b60ee0cc677a43ef0_hoosierhomemade.com&scr=1&ap=1&am=auto&erc=0&sta=5728295&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fhoosierhomemade.com%2F&contentFeedId=0UpLfvz6:22 in scriptOptimizer
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=5728295_54ff8e7b60ee0cc677a43ef0_hoosierhomemade.com&scr=1&ap=1&am=auto&erc=0&sta=5728295&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fhoosierhomemade.com%2F&contentFeedId=0UpLfvz6:23 in constructContainer
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30357D7B73353732383239357D7B4335367D7B534E54526D5A6A686C4E3249324D47566C4D474E6A4E6A63335954517A5A5759775832687662334E705A584A6F6232316C6257466B5A53356A6232303D7D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=5728295_54ff8e7b60ee0cc677a43ef0_hoosierhomemade.com&scr=1&ap=1&am=auto&erc=0&sta=5728295&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fhoosierhomemade.com%2F&contentFeedId=0UpLfvz6:19
+17
+http://gioia.it
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+logging...17
+18
+http://ourmidland.com
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+logging...18
+19
+http://norcalrenfaire.com
+logging...19
+logging...19
+logging...19
+logging...19
+logging...19
+20
+http://nrghomesolar.com
+logging...20
+logging...20
+logging...20
+21
+http://southflorida.com
+logging...21
+logging...21
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.southflorida.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.southflorida.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.southflorida.com/:2 in global code
+22
+http://thinkstockphotos.es
+logging...22
+logging...22
+logging...22
+logging...22
+23
+http://razorfish.com
+TypeError: undefined is not a function (evaluating 'e.load()')
+
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/app.js:1 in A
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/app.js:1 in e
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/app.js:1
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/app.js:1
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/shared.js:1 in t
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/app.js:1
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/shared.js:1 in t
+  https://www.razorfish.com/webfiles/1486980749191/js/razorfish/shared.js:1 in webpackJsonp
+24
+http://njpac.org
+logging...24
+logging...24
+logging...24
+logging...24
+25
+http://tmlewin.com
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+logging...25
+26
+http://costumediscounters.com
+27
+http://bestgameshq.com
+28
+http://mbna.ca
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+logging...28
+29
+http://cartoonextra.com
+30
+http://netflix.com
+logging...30
+logging...30
+31
+http://dailymotion.com
+32
+http://booking.com
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+logging...32
+33
+http://bestbuy.com
+TypeError: undefined is not an object (evaluating 'track.catId.indexOf')
+
+  http://images.bestbuy.com/BestBuy_US/js/tracking/trackEvent-min.js:5
+  http://images.bestbuy.com/BestBuy_US/store/vendor/jquery/jquery-1.7.min.js:5 in o
+  http://images.bestbuy.com/BestBuy_US/store/vendor/jquery/jquery-1.7.min.js:5 in add
+  http://images.bestbuy.com/BestBuy_US/store/vendor/jquery/jquery-1.7.min.js:5 in ready
+  http://images.bestbuy.com/BestBuy_US/store/vendor/jquery/jquery-1.7.min.js:5 in init
+  http://images.bestbuy.com/BestBuy_US/store/vendor/jquery/jquery-1.7.min.js:5 in e
+34
+http://9gag.com
+TypeError: undefined is not a function (evaluating '$(videoPlayer)[0].pause()')
+
+  undefined:1178
+  :497 in proxy
+  :4737 in dispatch
+  :4549 in handle
+  :7807 in trigger
+  :7875
+  :365 in each
+  :137 in each
+  :7874 in trigger
+  :7896
+  :1366
+  :365 in each
+  :137 in each
+  :1363 in playVideosAndPauseOthersByEntryIds
+  :217 in autoPlayFocusedVideos
+  :167
+  :497 in proxy
+35
+http://target.com
+logging...35
+36
+http://abs-cbn.com
+logging...36
+SyntaxError: DOM Exception 12: An invalid or illegal string was specified.
+
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in postMessage
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in e
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in g
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in u
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in m
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in w
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8 in a
+  :0 in a
+  :0 in forEach
+  http://abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js:8
+TypeError: null is not an object (evaluating 'this._doc.documentElement')
+
+  http://avd.innity.net/lib/artrd.js:1 in parse
+  http://avd.innity.net/4/container_54e158f61c51b1092e256530.js:4 in bN
+  http://avd.innity.net/4/container_54e158f61c51b1092e256530.js:4
+[object Object]
+
+  http://www.googletagmanager.com/gtm.js?id=GTM-57B699:77 in error
+  http://www.googletagmanager.com/gtm.js?id=GTM-57B699:85 in onerror
+TypeError: undefined is not an object (evaluating 'e.length')
+
+  http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4 in each
+  http://entertainment.abs-cbn.com/Tv/Home:214
+  http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4 in c
+  http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4 in fireWith
+  http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6 in k
+  http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6 in onreadystatechange
+[object Object]
+
+  http://www.googletagmanager.com/gtm.js?id=GTM-57B699:77 in error
+  http://www.googletagmanager.com/gtm.js?id=GTM-57B699:85 in onerror
+37
+http://taringa.net
+logging...37
+TypeError: null is not an object (evaluating 'd.stage')
+
+  https://o1.t26.net/js/application.min.js?841:6
+38
+http://espncricinfo.com
+39
+http://businessinsider.com
+logging...39
+40
+http://kaskus.co.id
+logging...40
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in onreadystatechange
+  :0 in open
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in m
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in b
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in c
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in onreadystatechange
+  :0 in open
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in m
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in b
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in u
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in update_renders_data
+  https://js.brealtime.com/biddrplus-1.4.1.js:5
+  https://js.brealtime.com/biddrplus-1.4.1.js:5
+  https://js.brealtime.com/biddrplus-1.4.1.js:5 in onreadystatechange
+logging...40
+41
+http://nfl.com
+42
+http://prezi.com
+logging...42
+43
+http://marca.com
+44
+http://usatoday.com
+logging...44
+45
+http://elpais.com
+46
+http://bild.de
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+logging...46
+47
+http://bitly.com
+48
+http://cambridge.org
+49
+http://howtogeek.com
+50
+http://indianexpress.com
+51
+2417894
+Starting...2
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://indianexpress.com
+1
+http://lapatilla.com
+2
+http://theverge.com
+logging...2
+3
+http://cbssports.com
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+4
+http://intoday.in
+5
+http://jcpenney.com
+6
+http://latimes.com
+logging...6
+logging...6
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.latimes.com/:2 in global code
+TypeError: undefined is not an object (evaluating 'window.rpx_response.campaign')
+
+  http://www.latimes.com/:2 in global code
+7
+http://cisco.com
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:882 in onreadystatechange
+  :0 in open
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:895 in callService
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:673 in w
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:706
+  :0 in forEach
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:703 in c
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:638 in S
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:642
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:38 in A
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:642 in process
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:732 in getUserProfile
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:3614
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:1943 in af
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:2029 in Z
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/homepage.min.js:3595 in j
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:1926 in am
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:1930 in D
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:2040
+  http://www.cisco.com/etc/designs/cdc/clientlibs/responsive/js/foundation.min.js:1844 in T
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+logging...7
+8
+http://mangafox.me
+9
+http://wowhead.com
+TypeError: undefined is not a function (evaluating 'videoElem.load()')
+
+  https://www.stanza.co/directsale/video/58c6fbaedfd6b701474bf4f5:114 in loadVideo
+  https://www.stanza.co/directsale/video/58c6fbaedfd6b701474bf4f5:162 in init
+  https://www.stanza.co/directsale/video/58c6fbaedfd6b701474bf4f5:168
+10
+http://coolmath-games.com
+11
+http://thehindu.com
+logging...11
+12
+http://adp.com
+logging...12
+13
+http://asahi.com
+FAIL to load the address
+14
+http://ancestry.com
+FAIL to load the address
+15
+http://tomshardware.com
+logging...15
+TypeError: undefined is not an object (evaluating 'b.querySelector')
+
+  http://www.tomshardware.com/:2
+ReferenceError: Can't find variable: eStatWhap
+
+  http://www.tomshardware.com/:1 in onload
+TypeError: undefined is not an object (evaluating 'window.adonisHash.indexOf')
+
+  undefined:2
+  :2 in o
+  :2
+  :2
+  :2 in o
+  :2 in e
+16
+http://zappos.com
+logging...16
+logging...16
+17
+http://gamestop.com
+logging...17
+18
+http://lequipe.fr
+Error: Load timeout for modules: youtube-iframe-api
+http://requirejs.org/docs/errors.html#timeout
+
+  https://cdn.pulpix.com/static/pulpix.js:3 in defaultOnError
+  https://cdn.pulpix.com/static/pulpix.js:3 in u
+  https://cdn.pulpix.com/static/pulpix.js:3 in f
+  https://cdn.pulpix.com/static/pulpix.js:3 in completeLoad
+  https://cdn.pulpix.com/static/pulpix.js:3 in onScriptLoad
+19
+http://state.gov
+20
+http://discovercard.com
+logging...20
+21
+http://fnac.com
+22
+http://discover.com
+logging...22
+23
+http://bleacherreport.com
+24
+http://nydailynews.com
+25
+http://6pm.com
+logging...25
+logging...25
+26
+http://tmz.com
+27
+http://excite.co.jp
+TypeError: null is not an object (evaluating 'document.body.appendChild')
+
+  http://tracking-news.excite.co.jp/tracking/ea.php:68 in __tk
+  http://tracking-news.excite.co.jp/tracking/ea.php:88 in getUserIdCallback
+logging...27
+TypeError: undefined is not an object (evaluating 'n.pos_info.length')
+
+  http://yads.c.yimg.jp/js/yads.js:1 in renderAd_v2
+28
+http://ecollege.com
+29
+http://staples.com
+30
+http://serebii.net
+31
+http://elsevier.com
+logging...31
+32
+http://mcafee.com
+logging...32
+logging...32
+33
+http://walgreens.com
+34
+http://gumtree.com.au
+logging...34
+35
+http://usbank.com
+36
+http://infobae.com
+TypeError: undefined is not a function (evaluating 'client.element.querySelectorAll("a").forEach')
+
+  http://www.infobae.com/pb/gr/p/default/rkWhV112IWLneq/render.js?_=70da7:35 in loadSuccess
+  http://www.infobae.com/pb/gr/p/default/rkWhV112IWLneq/render.js?_=70da7:36
+  http://www.infobae.com/pb/gr/p/default/rkWhV112IWLneq/render.js?_=70da7:33
+  http://www.infobae.com/pb/gr/p/default/rkWhV112IWLneq/render.js?_=70da7:30 in onload
+37
+http://chegg.com
+38
+http://tomsguide.com
+logging...38
+TypeError: undefined is not an object (evaluating 'window.adonisHash.indexOf')
+
+  undefined:2
+  :2 in o
+  :2
+  :2
+  :2 in o
+  :2 in e
+TypeError: undefined is not a function (evaluating 'e.attachEvent("on"+t,n)')
+
+  http://script.crazyegg.com/pages/scripts/0012/7153.js?413884:1 in addListener
+  http://trk.cetrk.com/7/t.js?s=2249740&t=1489984171502:1
+  http://script.crazyegg.com/pages/scripts/0012/7153.js?413884:1 in each
+  http://trk.cetrk.com/7/t.js?s=2249740&t=1489984171502:1 in handleEvents
+  http://trk.cetrk.com/7/t.js?s=2249740&t=1489984171502:1 in Tracker
+39
+http://gnavi.co.jp
+TypeError: undefined is not an object (evaluating 'j.show')
+
+  https://c-www.gnst.jp/home/js/lib.js?1464051308:13 in db
+  https://c-www.gnst.jp/home/js/lib.js?1464051308:13
+  https://c-www.gnst.jp/home/js/home.js?1488164074:1
+logging...39
+40
+http://entrepreneur.com
+logging...40
+41
+http://irs.gov
+42
+http://farfetch.com
+logging...42
+TypeError: undefined is not a function (evaluating 'this.medium().toLowerCase().includes("cpc")')
+
+  https://www.farfetch.com/br/:4 in isPaidSearch
+  https://www.farfetch.com/br/:8 in runTree
+  https://www.farfetch.com/br/:10 in init
+43
+http://priceline.com
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+logging...43
+44
+http://nvidia.com
+FAIL to load the address
+45
+http://kongregate.com
+logging...45
+46
+http://mangareader.net
+47
+http://el-nacional.com
+48
+http://lavanguardia.com
+TypeError: undefined is not an object (evaluating 'gg.gtmCookieSync.getClientId')
+
+  http://www.lavanguardia.com/:800 in global code
+logging...48
+49
+http://wnd.com
+50
+http://firstpost.com
+logging...50
+51
+2446386
+Starting...3
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+0
+http://firstpost.com
+logging...0
+1
+http://yomiuri.co.jp
+logging...1
+logging...1
+2
+http://adidas.com
+3
+http://marriott.com
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+logging...3
+4
+http://collegeboard.org
+ReferenceError: Can't find variable: cbTrackData
+
+  https://www.collegeboard.org/:351 in checkAudience
+  https://www.collegeboard.org/:342
+ReferenceError: Can't find variable: cbTrackData
+
+  https://www.collegeboard.org/:351 in checkAudience
+  https://www.collegeboard.org/:346
+5
+http://thehill.com
+6
+http://chinatimes.com
+logging...6
+logging...6
+7
+http://sonyentertainmentnetwork.com
+8
+http://hearthpwn.com
+ReferenceError: Can't find variable: Promise
+
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in exports
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in value
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in value
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in i
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in e
+logging...8
+ReferenceError: Can't find variable: Promise
+
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in exports
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in value
+  http://cdm.cursecdn.com/js/hearthpwn/cdmfactorem_min.js?sec=home&misc=1489985009566:2 in runAuction
+9
+http://wwe.com
+TypeError: null is not an object (evaluating 'jQuery.cookie('_ga').split')
+
+  http://www.wwe.com/f/advagg_js/js__hLUPwlLMdBlX7Vswf4ZjUntvhdEGCz16_W4UH4E9C9U__gts4vXzI0k6JIAt1U8Ar7itEMYJTsdethc4d7iq2_z0__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js:89 in setBaseData
+logging...9
+logging...9
+[object Object]
+
+  http://www.googletagmanager.com/gtm.js?id=GTM-N7776B&l=wwe_ga_dataLayer:76 in error
+  http://www.googletagmanager.com/gtm.js?id=GTM-N7776B&l=wwe_ga_dataLayer:84 in onerror
+logging...9
+logging...9
+logging...9
+logging...9
+TypeError: Attempted to assign to readonly property.
+
+  http://tags.tiqcdn.com/utag/xaxis/-wwe/prod/utag.16.js?utv=ut4.39.201611082118:2
+10
+http://legacy.com
+logging...10
+TypeError: null is not an object (evaluating 'a.appendChild')
+
+  https://legacycom.disqus.com/embed.js:27 in k
+  https://legacycom.disqus.com/embed.js:27 in n
+  https://legacycom.disqus.com/embed.js:27 in toJSON
+  https://legacycom.disqus.com/embed.js:28 in loadEmbed
+TypeError: null is not an object (evaluating 'a.appendChild')
+
+  https://legacycom.disqus.com/embed.js:27 in k
+  https://legacycom.disqus.com/embed.js:27 in n
+  https://legacycom.disqus.com/embed.js:27 in toJSON
+  https://legacycom.disqus.com/embed.js:28 in loadEmbed
+  https://legacycom.disqus.com/embed.js:28 in reset
+  http://www.legacy.com/:269
+11
+http://autotrader.com
+12
+http://tvn24.pl
+13
+http://polygon.com
+logging...13
+14
+http://dinamalar.com
+ReferenceError: Can't find variable: FB
+
+  http://www.dinamalar.com/:925 in global code
+15
+http://britishcouncil.org
+logging...15
+16
+http://mainichi.jp
+logging...16
+TypeError: undefined is not a function (evaluating 'b.canPlayType("video/mp4")')
+
+  http://mainichi.jp/:153 in supportsType
+  http://mainichi.jp/:153
+  http://mainichi.jp/:29 in each
+  http://mainichi.jp/:153 in Embed
+  http://mainichi.jp/:153 in Player
+  http://mainichi.jp/:156 in PlayerSetup
+  http://mainichi.jp/:156
+  http://mainichi.jp/:29 in l
+  http://mainichi.jp/:29 in add
+  http://mainichi.jp/:29 in ready
+  http://mainichi.jp/:29 in init
+  http://mainichi.jp/:29 in h
+  http://mainichi.jp/:156
+  http://mainichi.jp/:51 in execCb
+  http://mainichi.jp/:51 in check
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51 in each
+  http://mainichi.jp/:51 in emit
+  http://mainichi.jp/:51 in check
+  http://mainichi.jp/:51 in enable
+  http://mainichi.jp/:51 in init
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51 in each
+  http://mainichi.jp/:51 in emit
+  http://mainichi.jp/:51 in check
+  http://mainichi.jp/:51 in enable
+  http://mainichi.jp/:51 in init
+  http://mainichi.jp/:51
+  http://mainichi.jp/:51
+  http://mainichi.jp/:156
+  http://mainichi.jp/:29 in l
+  http://mainichi.jp/:29 in fireWith
+  http://mainichi.jp/:31 in d
+  http://mainichi.jp/:31 in d
+17
+http://sopitas.com
+logging...17
+18
+http://dailykos.com
+19
+http://futhead.com
+ReferenceError: Can't find variable: Promise
+
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in exports
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in value
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in value
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in i
+  http://cdm.cursecdn.com/js/landscape/landscape_min.js:1 in e
+logging...19
+TypeError: undefined is not an object (evaluating 'navigator.geolocation.getCurrentPosition=function(e,t){t({code:0})}')
+
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=7221838_www.futhead.com&scr=1&ap=1&am=auto&erc=0&sta=7221838&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fwww.futhead.com%2F&contentFeedId=:22 in scriptOptimizer
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=7221838_www.futhead.com&scr=1&ap=1&am=auto&erc=0&sta=7221838&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fwww.futhead.com%2F&contentFeedId=:23 in constructContainer
+  http://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D3A6C69766553746174737C736B317B54327D7B64323031372D30332D32305F30367D7B73373232313833387D7B4335367D7B53643364334C6D5A316447686C59575175593239747D7B6F6C696E75787DFEFE&userIpAddr=52.67.241.229&userUA=Mozilla%2F5.0+%28Unknown%3B+Linux+x86_64%29+AppleWebKit%2F538.1+%28KHTML%2C+like+Gecko%29+PhantomJS%2F2.1.1+Safari%2F538.1&debugInfo=7221838_www.futhead.com&scr=1&ap=1&am=auto&erc=0&sta=7221838&contentNum=1&showLogo=0&clkUrl=&plMult=25&schedule=12&content=auto&x=300&y=250&pubUrl=http%3A%2F%2Fwww.futhead.com%2F&contentFeedId=:19
+20
+http://timeout.com
+ReferenceError: Can't find variable: adobe
+
+  http://assets.adobedtm.com/ce49178c3f20e548a33b3142f967218b422f5771/scripts/satellite-588a1cda64746d623a0022cc.js:15
+  http://assets.adobedtm.com/ce49178c3f20e548a33b3142f967218b422f5771/satelliteLib-471155aab562061e30b42d5636aaa36d2a4d9195.js:11 in i
+  http://assets.adobedtm.com/ce49178c3f20e548a33b3142f967218b422f5771/satelliteLib-471155aab562061e30b42d5636aaa36d2a4d9195.js:10 in i
+  http://assets.adobedtm.com/ce49178c3f20e548a33b3142f967218b422f5771/satelliteLib-471155aab562061e30b42d5636aaa36d2a4d9195.js:10 in onload
+TypeError: null is not an object (evaluating 'document.body.addBehavior')
+
+  http://secure-au.imrworldwide.com/v60.js:1 in record
+TypeError: null is not an object (evaluating 'g.match(/version\/([0-9\.]+)/)[1]')
+
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in SlideDeck
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in slidedeck
+TypeError: null is not an object (evaluating 'g.match(/version\/([0-9\.]+)/)[1]')
+
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in SlideDeck
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in slidedeck
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:1118
+TypeError: null is not an object (evaluating 'g.match(/version\/([0-9\.]+)/)[1]')
+
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in SlideDeck
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:276 in slidedeck
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:311 in initialize
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:311 in SlideDeckFadingNav
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:311
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in each
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in each
+  http://www.timeout.com/wp-admin/admin-ajax.php?action=slidedeck_preview_iframe&uniqueid=1489772534&slidedeck=1753&width=360&height=240&outer_width=660&outer_height=440&slidedeck_unique_id=slidedeck_1753_58cf607e701cd&post_id=1617&front_page=true&start=:311
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in i
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in fireWith
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in ready
+  http://www.timeout.com/wp-includes/js/jquery/jquery.js?v=1.12.4:2 in K
+21
+http://dummies.com
+Exception in queued GPT command ReferenceError: Can't find variable: yieldbot
+
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:71 in push
+logging...21
+22
+http://iloveoldschoolmusic.com
+ReferenceError: Can't find variable: stLight
+
+  http://iloveoldschoolmusic.com/:156 in global code
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in onreadystatechange
+  :0 in open
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in g
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in m
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in s
+  http://js.brealtime.com/biddrplus-2.1.0.js:7
+  http://js.brealtime.com/biddrplus-2.1.0.js:3
+  :0 in forEach
+  http://js.brealtime.com/biddrplus-2.1.0.js:3 in _each
+  http://js.brealtime.com/biddrplus-2.1.0.js:3 in e
+  http://js.brealtime.com/biddrplus-2.1.0.js:3 in emit
+  http://js.brealtime.com/biddrplus-2.1.0.js:3 in setTargetingForGPTAsync
+  http://biddr.brealtime.com/59120823-683.js:1
+  http://js.brealtime.com/biddrplus-2.1.0.js:3 in push
+  http://biddr.brealtime.com/59120823-683.js:1 in refreshBids
+  http://biddr.brealtime.com/59120823-683.js:1 in d
+ReferenceError: Can't find variable: jQuery
+
+  http://iloveoldschoolmusic.com/:1181 in global code
+InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in onreadystatechange
+  :0 in open
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in g
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in m
+  http://js.brealtime.com/biddrplus-2.1.0.js:6 in c
+  http://js.brealtime.com/biddrplus-2.1.0.js:7
+23
+http://forocoches.com
+logging...23
+24
+http://patheos.com
+ReferenceError: Can't find variable: FB
+
+  http://www.patheos.com/:58 in global code
+logging...24
+TypeError: undefined is not an object (evaluating 'd.browser.msie')
+
+  http://js.patheos.com.s3.amazonaws.com/3.0/patheos30.min.2014.5.1.11.15.js:519
+ReferenceError: Can't find variable: DFP
+
+  http://www.patheos.com/:58 in sendAdserverRequest
+  http://js.patheos.com/bn_prebid.js:15 in f
+  http://js.patheos.com/bn_prebid.js:15 in executeCallback
+  :0
+ReferenceError: Can't find variable: DFP
+
+  http://www.patheos.com/:58 in sendAdserverRequest
+  http://www.patheos.com/:58
+04:58:35.675 [ERROR] IframeError: Script error., Url: , , Line: , 0, Column: , 0
+
+  http://cdn.vidible.tv/prod/player/js/17.10.891/vidible-min.js?pid=58222717cc52c770a2764946&bcid=5745ca77e4b0b23da08d2d76&ifr=false&cb=0.9361219145357609&pt=html5&sid=ecfec048-c263-4db2-b38e-5afc475a29fe&r=http%3A%2F%2Fwww.patheos.com%2F:70 in c
+TypeError: undefined is not a function (evaluating 'this.M.pause()')
+
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:207 in stop
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:278 in stop
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:473 in xa
+TypeError: undefined is not a function (evaluating 'this.M.pause()')
+
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:207 in stop
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:278 in stop
+  http://cdn.vidible.tv/prod/player/js/17.10.891/html5/player-hls-latest-min.js:473 in xa
+25
+http://edmunds.com
+logging...25
+26
+http://okwave.jp
+logging...26
+logging...26
+27
+http://cinemablend.com
+28
+http://protothema.gr
+29
+http://rincondelvago.com
+30
+http://sammobile.com
+31
+http://wow.com
+32
+http://square-enix.com
+33
+http://eltiempo.com
+NO FLASH DETECTED
+
+  http://player.ooyala.com/static/v4/stable/4.11.14/video-plugin/osmf_flash.min.js:1 in i
+34
+http://news24.com
+35
+http://prensalibre.com
+TypeError: undefined is not a function (evaluating '$.cookie('login_name')')
+
+  http://www.prensalibre.com/:483 in global code
+Undefined space: 280x300_Native1_Portadas
+
+  http://us.img.e-planning.net/layers/epl-41.js:2031 in showSpace
+  http://www.prensalibre.com/:236 in eplSetAdM
+Undefined space: 70X45_patrocinio_mercados_home
+
+  http://us.img.e-planning.net/layers/epl-41.js:2031 in showSpace
+  http://www.prensalibre.com/:236 in eplSetAdM
+  http://www.prensalibre.com/:248 in eplAD4M
+36
+http://frys.com
+logging...36
+37
+http://cwtv.com
+Exception in queued GPT command TypeError: undefined is not an object (evaluating 'CWTV.Site.is_mobile')
+
+  https://securepubads.g.doubleclick.net/gpt/pubads_impl_111.js:71 in push
+TypeError: undefined is not an object (evaluating 'CWTV.Site.uplynkStreamUrl = ''')
+
+  http://cwtv.com/:1999 in global code
+ReferenceError: Can't find variable: s
+
+  http://cwtv.com/:2628 in global code
+38
+http://inquisitr.com
+TypeError: undefined is not a function (evaluating 'Object.assign({},this.dataDefaults.related)')
+
+  http://cdn.inquisitr.com/assets/9db531/dist/js/scripts.relatable.js?v=15890b:1 in value
+  http://cdn.inquisitr.com/assets/9db531/dist/js/scripts.relatable.js?v=15890b:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:3 in dispatch
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:3 in handle
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:3 in trigger
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:3 in triggerHandler
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:2 in ready
+  http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=15890b:2 in K
+39
+http://bloomingdales.com
