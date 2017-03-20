@@ -39,8 +39,9 @@ function loadPage() {
 
     var page = webpage.create();
     page.settings.clearMemoryCaches = true;
-    page.settings.loadImages = false;
     page.clearMemoryCache();
+    page.settings.loadImages = false;
+    page.settings.resourceTimeout = 300000; // 5 min
     page.open(url, function (status) {
         if (status !== 'success') {
             console.log('FAIL to load the address');
