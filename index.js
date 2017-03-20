@@ -15,7 +15,7 @@ var fs = require('fs'),
         'SuperTag': /(c\.supert\.ag)|(s\.supert\.ag)/
     };
 
-var i = 0;
+var i = 1;
 var file_h = fs.open('url.csv', 'r');
 
 loadPage();
@@ -23,10 +23,16 @@ loadPage();
 function loadPage() {
     var line = file_h.readLine();
     console.log(i);
-    if (i > 50) {
+    if (i > 10) {
+        localStorage.clear();
         console.log(new Date().getTime() - startTime);
         phantom.exit();
     }
+
+    if(line == '') {
+        phantom.exit();
+    }
+
     var url = line.split(',')[0];
     url = "http://" + url;
     console.log(url);
@@ -43,8 +49,9 @@ function loadPage() {
     });
 
     page.onResourceRequested = function (requestData, networkRequest) {
-        if (requestData.url.indexOf('autodesk') > 0)
+        if (requestData.url.indexOf('autodesk') > 0) {
             networkRequest.abort();
+        }
 
         for (var key in patterns) {
             if (patterns[key].test(requestData.url)) {
@@ -69,22 +76,22 @@ function loadPage() {
 
     page.onLoadFinished = function (status) {
         setTimeout(function() {
-          setTimeout(function() {
-            page.close();
-            i++;
-            loadPage();
-          }, 1);
-      }, 1000);
+            setTimeout(function() {
+                page.close();
+                i++;
+                loadPage();
+            }, 1);
+        }, 1000);
     };
 }
 
 phantom.onError = function(msg, trace) {
-  var msgStack = ['PHANTOM ERROR: ' + msg];
-  if (trace && trace.length) {
-    msgStack.push('TRACE:');
-    trace.forEach(function(t) {
-      msgStack.push(' -> ' + (t.file || t.sourceURL) + ': ' + t.line + (t.function ? ' (in function ' + t.function +')' : ''));
-    });
-  }
-  console.error(msgStack.join('\n'));
+    var msgStack = ['PHANTOM ERROR: ' + msg];
+    if (trace && trace.length) {
+        msgStack.push('TRACE:');
+        trace.forEach(function(t) {
+            msgStack.push(' -> ' + (t.file || t.sourceURL) + ': ' + t.line + (t.function ? ' (in function ' + t.function +')' : ''));
+        });
+    }
+    console.error(msgStack.join('\n'));
 };
