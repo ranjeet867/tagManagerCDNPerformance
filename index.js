@@ -24,6 +24,7 @@ function loadPage() {
     var line = file_h.readLine();
     console.log(i);
     if (i > 10) {
+        localStorage.clear();
         console.log(new Date().getTime() - startTime);
         phantom.exit();
     }
