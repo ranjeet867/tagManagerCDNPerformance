@@ -41,6 +41,10 @@ function loadPage() {
             console.log('FAIL to load the address');
             return;
         }
+
+        localStorage.clear();
+        console.log(new Date().getTime() - startTime);
+        phantom.exit();
     });
 
     page.onResourceRequested = function (requestData, networkRequest) {
@@ -68,16 +72,6 @@ function loadPage() {
             }
         }
     }
-
-    page.onLoadFinished = function (status) {
-        setTimeout(function() {
-            setTimeout(function() {
-                localStorage.clear();
-                console.log(new Date().getTime() - startTime);
-                phantom.exit();
-            }, 1);
-        }, 1000);
-    };
 
     page.onResourceTimeout = function(request) {
         console.log('Response (#' + request.id + '): ' + JSON.stringify(request));
