@@ -22,12 +22,6 @@ loadPage();
 
 function loadPage() {
     var line = file_h.readLine();
-    console.log(i);
-    if (i > 10) {
-        localStorage.clear();
-        console.log(new Date().getTime() - startTime);
-        phantom.exit();
-    }
 
     if(line == '') {
         phantom.exit();
@@ -41,7 +35,7 @@ function loadPage() {
     page.settings.clearMemoryCaches = true;
     page.clearMemoryCache();
     page.settings.loadImages = false;
-    page.settings.resourceTimeout = 60000; // 1 min
+    page.settings.resourceTimeout = 90000; // 1 min
     page.open(url, function (status) {
         if (status !== 'success') {
             console.log('FAIL to load the address');
@@ -78,11 +72,17 @@ function loadPage() {
     page.onLoadFinished = function (status) {
         setTimeout(function() {
           setTimeout(function() {
-            page.close();
-            i++;
-            loadPage();
+              localStorage.clear();
+              console.log(new Date().getTime() - startTime);
+              phantom.exit();
           }, 1);
       }, 1000);
+    };
+
+    page.onResourceTimeout = function(request) {
+        console.log('Response (#' + request.id + '): ' + JSON.stringify(request));
+        localStorage.clear();
+        phantom.exit();
     };
 }
 
