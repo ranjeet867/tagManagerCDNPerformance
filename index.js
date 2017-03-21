@@ -22,12 +22,6 @@ loadPage();
 
 function loadPage() {
     var line = file_h.readLine();
-    console.log(i);
-    if (i > 10) {
-        localStorage.clear();
-        console.log(new Date().getTime() - startTime);
-        phantom.exit();
-    }
 
     if(line == '') {
         phantom.exit();
@@ -41,7 +35,7 @@ function loadPage() {
     page.settings.clearMemoryCaches = true;
     page.clearMemoryCache();
     page.settings.loadImages = false;
-    page.settings.resourceTimeout = 120000; // 2 min
+    page.settings.resourceTimeout = 90000; // 1 min
     page.open(url, function (status) {
         if (status !== 'success') {
             console.log('FAIL to load the address');
@@ -77,22 +71,28 @@ function loadPage() {
 
     page.onLoadFinished = function (status) {
         setTimeout(function() {
-          setTimeout(function() {
-            page.close();
-            i++;
-            loadPage();
-          }, 1);
-      }, 1000);
+            setTimeout(function() {
+                localStorage.clear();
+                console.log(new Date().getTime() - startTime);
+                phantom.exit();
+            }, 1);
+        }, 1000);
+    };
+
+    page.onResourceTimeout = function(request) {
+        console.log('Response (#' + request.id + '): ' + JSON.stringify(request));
+        localStorage.clear();
+        phantom.exit();
     };
 }
 
 phantom.onError = function(msg, trace) {
-  var msgStack = ['PHANTOM ERROR: ' + msg];
-  if (trace && trace.length) {
-    msgStack.push('TRACE:');
-    trace.forEach(function(t) {
-      msgStack.push(' -> ' + (t.file || t.sourceURL) + ': ' + t.line + (t.function ? ' (in function ' + t.function +')' : ''));
-    });
-  }
-  console.error(msgStack.join('\n'));
+    var msgStack = ['PHANTOM ERROR: ' + msg];
+    if (trace && trace.length) {
+        msgStack.push('TRACE:');
+        trace.forEach(function(t) {
+            msgStack.push(' -> ' + (t.file || t.sourceURL) + ': ' + t.line + (t.function ? ' (in function ' + t.function +')' : ''));
+        });
+    }
+    console.error(msgStack.join('\n'));
 };
