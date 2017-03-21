@@ -39,7 +39,6 @@ function loadPage() {
     page.open(url, function (status) {
         if (status !== 'success') {
             console.log('FAIL to load the address');
-            return;
         }
 
         localStorage.clear();
