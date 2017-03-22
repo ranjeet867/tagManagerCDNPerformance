@@ -1,0 +1,15 @@
+http://paypal.com,Ensighten,https://nexus.ensighten.com/paypal/prod/serverComponent.php?r=981164.2288696021&ensJson=true&ClientID=1620&PageID=https%3A%2F%2Fwww.paypal.com%2Fus%2Fhome%3Ftms_country%3Dus%26ensJson%3Dtrue,41ms
+http://target.com,GTM,https://www.googletagmanager.com/gtm.js?id=GTM-NXB348G,50ms
+http://paypal.com,Ensighten,https://nexus.ensighten.com/paypal/prod/serverComponent.php?r=65.8210564404726&ensJson=true&ClientID=1620&PageID=https%3A%2F%2Fwww.paypal.com%2Fus%2Fhome%3Ftms_country%3Dus%26ensJson%3Dtrue,43ms
+http://target.com,GTM,https://www.googletagmanager.com/gtm.js?id=GTM-NXB348G,48ms
+http://homedepot.com,Ensighten,http://nexus.ensighten.com/homedepot/Bootstrap.js,5ms
+http://homedepot.com,Ensighten,http://nexus.ensighten.com/homedepot/prod/serverComponent.php?r=40335039.21236843&ClientID=20&PageID=http%3A%2F%2Fwww.homedepot.com%2F,9ms
+http://homedepot.com,Ensighten,http://nexus.ensighten.com/homedepot/prod/code/bfe0fc16b892d46d44c90febfc6f8c00.js?conditionId0=53017,14ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/amexhead/Bootstrap.js,15ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/amexhead/serverComponent.php?r=667424677.4055064&ClientID=218&PageID=https%3A%2F%2Fwww.americanexpress.com%2F,2ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/Bootstrap.js?ens_mk=us,11ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/serverComponent.php?clientID=218&PageID=https%3A%2F%2Fwww.americanexpress.com%2F%3FensMarket%3DUS%26ens_env%3D3%26e_pageId%3D7493%26deviceType%3Dsmall,262ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/prod/code/39d4676e50ca453223de8b2a1ea521db.js?conditionId0=375400,3ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/prod/code/4bf1d44a92bca8ee5eb4b76c3be12c24.js?conditionId0=181208,9ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/prod/code/85642c6fa8ce2ee9c3f71cd5bbd02d81.js?conditionId0=381778,10ms
+http://americanexpress.com,Ensighten,https://nexus.ensighten.com/amex/prod/code/ff1ab3604124ae49ce7770a905cd06a5.js?conditionId0=181097,10ms
